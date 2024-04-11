@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=s\ p
+comment1.target=Laptop(java.lang.String,\ int)
+comment2.params=
+comment2.target=Laptop()
+comment3.params=p
+comment3.target=Laptop(int)
+comment4.params=
+comment4.target=void\ input()
+comment5.params=
+comment5.target=void\ compute()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

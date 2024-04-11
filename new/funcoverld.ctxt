@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=funcoverld
+comment1.params=x\ n
+comment1.target=void\ series(int,\ int)
+comment2.params=p
+comment2.target=void\ series(int)
+comment3.params=
+comment3.target=void\ series()
+numComments=4

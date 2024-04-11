@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sampleq4
+comment1.params=n\ d
+comment1.target=void\ Add(int,\ int)
+comment2.params=n
+comment2.target=void\ Add(int)
+comment3.params=n\ d
+comment3.target=void\ Add(double,\ double)
+numComments=4

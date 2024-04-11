@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=question6
+comment1.params=n
+comment1.target=int\ digitExtraction(int)
+comment2.params=n\ P
+comment2.target=int\ digitExtraction(int,\ int)
+comment3.params=n\ c
+comment3.target=int\ digitExtraction(int,\ char)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
