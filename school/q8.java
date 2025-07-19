@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class q8
+public class MATRIX
 {
     public static void main()
     {
