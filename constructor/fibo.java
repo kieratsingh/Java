@@ -1,5 +1,5 @@
 import java.util.*;
-public class fibo
+public class fibonacciseries
 {
     int n,f,s,t;
     Scanner in = new Scanner(System.in);
