@@ -1,5 +1,5 @@
 import java.util.*;
-public class swap
+public class DirectNumberSwap
 {
     int n1,n2;
     Scanner in = new Scanner(System.in);
