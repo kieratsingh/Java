@@ -1,4 +1,4 @@
-public class patern
+public class pattern
 {
     public static void main()
     {
